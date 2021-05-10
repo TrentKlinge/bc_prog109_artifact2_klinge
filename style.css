@@ -1,9 +1,14 @@
 #header {
   font-family: 'JelleeBold';
   background-color: #0FA11C;
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 40px;}
+  position:fixed;
+  top:0px;
+  left:0px; 
+  padding:10px;
+  margin:0px;
+  width:100%;
+  text-align:center; 
+  z-index:10;
 
 .row {
    position:relative;
