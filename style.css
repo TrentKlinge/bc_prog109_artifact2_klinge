@@ -40,8 +40,8 @@
 #footer {
    border:solid 1px;
    padding: 10px;
-   margin: 0 auto;
-   width: 5%;
+   margin: 10px;
+   text-align: center;
    background-color: #0FA11C;}
 
 body {
